@@ -1,0 +1,4 @@
+# Ignore artifacts, mlflow runs, and virtual environment directories
+mlartifacts/
+mlruns/
+venv1/
